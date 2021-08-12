@@ -82,12 +82,47 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
-	padding: 40px 0;
 }
 
 .copyright {
 	color: #FFFFFF;
 	font-size: 13px;
 	margin: 20px 0 0;
+}
+
+#rodape{
+	width: 100%;
+}
+
+.social {
+	position: absolute;
+	bottom: 0 px;
+	right:0 px;
+	width: 10% ;
+
+}
+
+.contato li {
+	display: inline-block;
+	width: 100%;
+}
+
+
+
+#face {
+	width: 50%;
+
+}
+
+#insta{
+	width: 50%;
+}
+
+#in{
+	width: 50%;
+}
+
+.contato{
+	margin: 0 auto;
+	padding: 5px;
 }
